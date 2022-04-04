@@ -33,7 +33,7 @@ contract SimpleCoin {
         TotalSupply = 1_000_000 * 10**decimals;
         balanceOf[owner] = TotalSupply;
 
-        name = "MaCoin";
+        name = "Never Coin";
         simbol = "LC";
         decimals = 8;
     }
